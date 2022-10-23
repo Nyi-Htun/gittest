@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+}
+h1{
+    font-family: fantasy;
+    font-style: oblique;
+    color: aqua;
+}
+
+p{
+    color: rgb(49, 226, 84);
+    font-style: italic;
+    font-size: 5px;
+}
